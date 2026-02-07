@@ -63,7 +63,7 @@
     "swc-loader": "0.2.6",
     "tsx": "4.19.1",
     "typescript": "5.6.3",
-    "webpack": "5.95.0",
+    "webpack": "5.105.0",
     "webpack-cli": "5.1.4",
     "webpack-ext-reloader": "1.1.13",
     "wext-manifest-loader": "https://github.com/SimplifyJobs/wext-manifest-loader/releases/download/v2.4.3/wext-manifest-loader-2.4.3.tgz"
